@@ -1,7 +1,5 @@
 # Hi there! I'm [Brayan](https://github.com/Br4yanGC) 👋
 
-<img align="right" width="350px" alt="GIF" src="https://www.pngarts.com/files/8/Black-Github-Logo-PNG-Image-Background.png">
-
 ## Something about me 👀:
 - I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
 - The languages that i currently manage are **c++**, **python**, **HTML** and **CSS**. Although my level in those languages aren't as higer as is expected I'm working hard to improve in those  
