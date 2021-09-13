@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there! I'm Brayan 👋
+## Something about me 👀:
+- I'm a computer science student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
+- The languages that i currently manage are c++, python, HTML and CSS. Although my level in those languages aren't as higer as is expected I'm working hard to improve in those
+## Fun fact ⚡:
+- My tongue language is spanish :EMOJICODE:, however, I'm writing this on english because i want to do more understandable my profile for as many people as possible.
+## Testing
+<style>
+  p{
+    color: blue;
+  }
+</style>
+<p>I'm testing if this space support HTML</p>
 
 <!--
 **Br4yanGC/Br4yanGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +26,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
