@@ -1,6 +1,6 @@
 # Hi there! I'm [Brayan](https://github.com/Br4yanGC) 👋
 
-<img width=100 alt="gif" src="https://www.neilhillier.com/wp-content/uploads/2018/03/matrix-1500-x-400.gif"/>
+<img width="100%" alt="gif" src="https://www.neilhillier.com/wp-content/uploads/2018/03/matrix-1500-x-400.gif"/>
 
 ## Something about me 👀:
 - I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
