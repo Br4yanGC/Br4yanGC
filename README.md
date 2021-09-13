@@ -2,6 +2,7 @@
 
 <img align="right" width="350px" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
 
+
 ## Something about me 👀:
 - I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
 - The languages that i currently manage are **c++**, **python**, **HTML** and **CSS**. Although my level in those languages aren't as higer as is expected I'm working hard to improve in those  
