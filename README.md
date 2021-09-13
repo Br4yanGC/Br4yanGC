@@ -5,13 +5,14 @@
 ## Fun fact ⚡:
 - My tongue language is spanish :EMOJICODE:, however, I'm writing this on english because i want to do more understandable my profile for as many people as possible.
 ## Testing
+<html>
 <style>
   p{
     color: blue;
   }
 </style>
 <p>I'm testing if this space support HTML</p>
-
+</html>
 <!--
 **Br4yanGC/Br4yanGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
