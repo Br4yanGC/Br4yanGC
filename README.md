@@ -10,7 +10,7 @@
 - Sleeping
 - Watching series
 ## Testing
-<img justify="center" width="100px" height="100px" src="http://www.fillmurray.com/100/100">
+<img justify-content="center" width="100px" height="100px" src="http://www.fillmurray.com/100/100">
 
 
 <!--
