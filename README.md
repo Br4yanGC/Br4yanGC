@@ -1,6 +1,6 @@
 # Hi there! I'm [Brayan](https://github.com/Br4yanGC) 👋
 
-<img align="right" width="350px" alt="GIF" src="https://cdn.dribbble.com/users/416610/screenshots/4801105/media/be031f8d02ca8cc404d44be54ee2c493.gif">
+<img align="right" width="350px" alt="GIF" src="https://camo.githubusercontent.com/5fca3db52c463447c36cbf864b01eac247219e56ce24dc0169a66c62ae53a481/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6475334a336358797a686a3735494f6776412f67697068792e676966">
 
 ## Something about me 👀:
 - I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
