@@ -1,9 +1,10 @@
 # Hi there! I'm [Brayan](https://github.com/Br4yanGC) 👋
+
 ## Something about me 👀:
 <img align="right" height="150px" alt="GIF" src="https://res.cloudinary.com/jerrick/image/upload/v1548358184/i8uj1f1dquu5dc6rzkgs.gif"/>
-
 - I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
 - The languages that i currently manage are **c++**, **python**, **HTML** and **CSS**. Although my level in those languages aren't as higer as is expected I'm working hard to improve in those
+
 ## Fun fact ⚡:
 - My tongue language is spanish, however, I'm writing this on english because i want to do more understandable my profile for as many people as possible.
 ## Hobbies
