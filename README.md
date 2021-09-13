@@ -2,7 +2,7 @@
 
 ## Something about me 👀:
 
-<img align="right" height="120px" alt="GIF" src="https://hostrider.com/images/tw.png">
+<img align="right" height="120px" alt="GIF" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuHpgB6IaIrSBTuVW1HLI6ZT9XQzHk513hKg&usqp=CAU">
 
 - I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
 - The languages that i currently manage are **c++**, **python**, **HTML** and **CSS**. Although my level in those languages aren't as higer as is expected I'm working hard to improve in those
