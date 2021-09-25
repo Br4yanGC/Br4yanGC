@@ -1,30 +1,26 @@
-#My App  
+# Hi there! I'm [Brayan](https://github.com/Br4yanGC) 👋
 
-[My app](https://pbs.twimg.com/media/CDdIu4TWIAEKAFr?format=jpg&name=900x900) has the goal to help people to do something awesome!  
-![imagen](https://pbs.twimg.com/media/CDdIu4TWIAEKAFr?format=jpg&name=900x900)  
-##Contribute
-If you want to contribute to our project:
-1. Go to our report and fork it!
-2. Make any modification you need in your forked repo.
-3. Submit a PR!
-4. We will recieve your PR as soon as we can. Appreciate so much your help!
-##Installation  
-You will need the a few requirements to run our project in your local computer.
-- Node.js 6.5+
-- MySQL 8+
-- npm 4+
-- Angular cli
-- Angulas 8.x
-- Ionic 2.x
-##Run your project  
-After you have installed all required softwares, you just need to clone our repo:  
-```gh repo clone <repo>```  
-After that, just jump into the repo and type:  
-```npm start```  
-And the project will run a let you know the `port` to access it!  
-##Progress  
-| **Project part being developed** | **Owner of that part of the project** | **Favorite bash command** |
-| :---         |     :---:      |          ---: |
-| Frontend | Magnus Carlsen  | `sudo rm -rf`|
-| Backend  | MVL  | `none` |
-| Database | Andrew Tang  | `Penguin | gm1`|
+## Something about me 👀:
+
+<img align="right" alt="GIF" width="250px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47rj4icb98g1888r9funyfk6g1b2j2xzto87mb2jup&rid=giphy.gif&ct=g"/>
+
+- I'm a **computer science** student and I'm currently studying at Universidad de Ingeniería y Tecnología in Peru.
+- The languages that i currently manage are **C++**, **Python**, **HTML** and **CSS**. Although my level in those languages aren't as higer as is expected I'm working hard to improve in those  
+
+## Fun fact ⚡:
+- My tongue language is spanish, however, I'm writing this on english because I want to do more understandable my profile for as many people as possible.
+  
+<!--
+**Br4yanGC/Br4yanGC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
